@@ -1,6 +1,6 @@
 # File Explorer tree 
 
-this simple app to display structure of folder and files tree 
+Simple app to display structure of folder and files tree 
 
 ## 🔗 Links
 
