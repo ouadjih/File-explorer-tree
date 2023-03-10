@@ -14,7 +14,7 @@ Simple app to display structure of folder and files tree
  
 ## Usage/Examples
 ```javascript
-git clone https://github.com/ouadjih/react-file-explorer-tree-
+git clone https://github.com/ouadjih/file-explorer-tree
 ```
 
 ```javascript
