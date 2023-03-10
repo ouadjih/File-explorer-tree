@@ -9,9 +9,10 @@ Simple app to display structure of folder and files tree
 
 ## Showcase
 
- ![Exampe](folderstructure.gif) / ! [](folderstructure.gif)
-
-
+ ![Exampe](folderstructure.gif) 
+ 
+ 
+## Usage/Examples
 ```javascript
 git clone https://github.com/ouadjih/react-file-explorer-tree-
 ```
