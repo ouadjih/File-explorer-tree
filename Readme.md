@@ -11,7 +11,7 @@ Simple app to display structure of folder and files tree
 
 Usage/Examples
 
-! [demo](folderstructure.gif)
+! [](folderstructure.gif)
 
 
 ```javascript
