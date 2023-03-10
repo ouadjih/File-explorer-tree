@@ -9,7 +9,7 @@ this simple app to display structure of folder and files tree
 
 ## Showcase
 
-![](https://github.com/ouadjih/SearchFilter/blob/main/searchFilter.gif)
+![](https://github.com/ouadjih/SearchFilter/blob/main/folderstructure.gif)
 
 ## Usage/Examples
 
