@@ -9,7 +9,7 @@ Simple app to display structure of folder and files tree
 
 ## Showcase
 
-
+! [demo](folderstructure. gif)
 Usage/Examples
 
 
